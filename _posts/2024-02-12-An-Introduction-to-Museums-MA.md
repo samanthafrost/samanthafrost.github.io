@@ -3,11 +3,11 @@ layout: post
 title: An Intro to Museums MA- A Digital Humanities Project for the Aspiring Museum Professional
 ---
 
-##What is the project goal?
+## What is the project goal?
 
 The goal of the Museums MA project is to provide transparency about the museum and public history profession, in order to better prepare emerging museum professionals as they enter the job market.
 
-##What is included on the site?
+## What is included on the site?
 
 On this site, users will find a collection of informational interviews conducted between Samantha Frost, a Northeastern University public history master's student, and several museum professionals throught Massachusetts (and Connecticut). Each interview contains Dublin Core metadata and numerous tags with controlled vocabulary to highlight recurring topics in the interviews. There is also an institutional biographies collection, where users can read about the organizations with which the interviewees are affiliated.
 
