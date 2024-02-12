@@ -1,11 +1,11 @@
 ---
 layout: post
-title: An Intro to Museums MA- A Digital Humanities Project for the Aspiring Museum Professional
+title: An Intro to *Museums MA*- A Digital Humanities Project for the Aspiring Museum Professional
 ---
 
 ## What is the project goal?
 
-The goal of the Museums MA project is to provide transparency about the museum and public history profession, in order to better prepare emerging museum professionals as they enter the job market.
+The goal of the *Museums MA* project is to provide transparency about the museum and public history profession, in order to better prepare emerging museum professionals as they enter the job market.
 
 ## What is included on the site?
 
