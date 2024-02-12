@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This site is designed for high school students, undergraduates, graduate students, and early career professionals who are interested in working as public historians in small to medium-sized history museums, art museums, historical societies, and archives in Massachusetts. 
 
-### More Information
+### About Me
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a public history master's student at Northeastern University, passionate about the study of early American material culture, decorative arts, public history, and digital humanities.  I have interned at several museums and historic sites, gaining skills in curation, collections care, exhibit development, and museum education. I have interned at several museums and historic sites, gaining skills in curation, collections care, exhibit development, and museum education.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[frost.sa@northeastern.edu)(mailto:frost.sa@northeastern.edu)
