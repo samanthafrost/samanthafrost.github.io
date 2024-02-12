@@ -13,4 +13,3 @@ I am a public history master's student at Northeastern University, passionate ab
 ### Contact me
 
 frost.sa@northeastern.edu
-[(https://www.linkedin.com/in/samantha-frost-483782279/)]
