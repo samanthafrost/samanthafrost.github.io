@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Intro to *Museums MA*- A Digital Humanities Project for the Aspiring Museum Professional
+title: An Intro to Museums MA- A Digital Humanities Project for the Aspiring Museum Professional
 ---
 
 ## What is the project goal?
