@@ -18,4 +18,4 @@ I am a public history master's student at Northeastern University, passionate ab
 
 ### Contact me
 
-[frost.sa@northeastern.edu](frost.sa@northeastern.edu)
+[frost.sa@northeastern.edu](mailto:frost.sa@northeastern.edu)
